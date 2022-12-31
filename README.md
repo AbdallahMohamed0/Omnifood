@@ -16,4 +16,3 @@ Website sections:
 ## [live demo](https://omnifood-abdo.netlify.app/)
 
 ![screen shot](omnifood.png)
-
