@@ -15,5 +15,5 @@ Website sections:
 
 ## [live demo](https://omnifood-abdo.netlify.app/)
 
-![screen shot]<img width="947" alt="omnifood" src="https://user-images.githubusercontent.com/113191982/210149286-3768dece-dbfa-416a-b759-dd0e49c1a4c5.png">
+![screen shot](<img width="947" alt="omnifood" src="https://user-images.githubusercontent.com/113191982/210149286-3768dece-dbfa-416a-b759-dd0e49c1a4c5.png">)
 
