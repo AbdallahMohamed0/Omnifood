@@ -1,6 +1,6 @@
 # Omnifood
 
-##Omnifood is an amazing website built with HTML, CSS and Java-Script
+## Omnifood is an amazing website built with HTML, CSS and Java-Script
 
 Website sections:
 - Hero section 
