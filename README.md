@@ -13,6 +13,6 @@ Website sections:
 - footer 
 
 
-## [live demo](https://omnifood-abdo.netlify.app/)
+## [live demo](https://abdallahmohamed0.github.io/Omnifood/)
 
 ![image](https://user-images.githubusercontent.com/113191982/210234258-d1c9cb16-9e3d-496b-8c4a-88c4a801d5e1.png)
